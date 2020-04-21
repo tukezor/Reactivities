@@ -79,8 +79,6 @@ const ProfilePhotos = () => {
 					)}
 				</Grid.Column>
 			</Grid>
-
-
 		</Tab.Pane>
 	)
 }
